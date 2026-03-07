@@ -1,0 +1,21 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+
+# datasets
+dataset/
+
+# outputs
+output/
+
+# model weights
+*.pt
+*.pth
+*.ckpt
+
+# medical imaging
+*.nii
+*.nii.gz
