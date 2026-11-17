@@ -1,5 +1,12 @@
 # CardioGen
 
+---
+
+## Contributors
+
+- **Christie Mathews**
+- **Arnav Sanjay Karnik**
+
 A 3D generative modeling framework for synthesizing high-fidelity Coronary Computed Tomography Angiography (CCTA) volumes. This repository contains the implementation for training a two-stage Latent Diffusion Model (LDM) to generate synthetic cardiac images, alongside the pipeline for joint-augmented downstream segmentation.
 
 ![Figure 3 Placeholder](docs/model_pic.png) 
